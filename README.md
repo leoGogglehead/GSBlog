@@ -1,2 +1,2 @@
 # GSBlog
-Blog for Googlehead and Shamansim
+Blog for Googlehead and Simon
